@@ -1,24 +1,24 @@
-# 🧑‍💼 Employee Management System (Python + MySQL)
+# Employee Management System (Python + MySQL)
 
 A **console-based Employee Management System** built using **Python**, **MySQL**, and **Object-Oriented Programming (OOP)** principles. This system allows secure user authentication and complete CRUD operations on employee records, with a modular, scalable architecture.
 
 ---
 
-## 📌 Features
+## Features
 
-### 🔐 User Authentication
+### User Authentication
 - Secure registration with SHA-256 password hashing
 - Login system with verification
 - Optional: Role-based access (e.g., `admin`, `viewer`)
 
-### 📋 Employee Management (CRUD)
+### Employee Management (CRUD)
 - Add new employee
 - View all employees
 - Search employee by ID
 - Update employee details
 - Delete employee record
 
-### 💾 Database Integration
+### Database Integration
 - MySQL backend with proper relational structure
 - Tables:
   - `users`: Stores admin credentials
@@ -26,7 +26,7 @@ A **console-based Employee Management System** built using **Python**, **MySQL**
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |----------|------------|
